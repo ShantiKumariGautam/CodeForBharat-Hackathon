@@ -6,8 +6,6 @@
 
 - 🌐 Live App: [harit-setu.vercel.app](https://code-for-bharat-git-main-shanti-kumari-gautams-projects.vercel.app/)
 - 🎥 Demo Video: [Watch on YouTube](https://youtu.be/MRuSDbewoB4)
-- 💻 GitHub: [anchal405/Harit_Setu](https://github.com/anchal405/Harit_Setu)
-
 ---
 
 ## 🌱 Overview
