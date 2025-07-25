@@ -1,5 +1,9 @@
 # HaritSetu – Sell Smart, Stay Green
 
+HaritSetu_Logo (1).png
+<p align="center">
+  <img src="HaritSetu_Logo (1).png alt="HaritSetu Logo" width="400"/>
+</p>
 > A sustainable agri-commerce platform to turn crop residues into revenue.
 
 ## 🔗 Demo & Links
